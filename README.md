@@ -3,7 +3,12 @@
 
 When deploying contracts on-chain using a Provider like infura or alchemy. Your transaction may fail with: 
 
+#### Case 1: 
 ![image](https://user-images.githubusercontent.com/90874464/179557037-96450617-5587-4e8e-9afa-68ae4ea02390.png)
+
+
+#### Case 2: 
+![image](https://user-images.githubusercontent.com/90874464/179557837-c26c4ac5-f32d-441d-8dd1-34e946aaf62d.png)
 
 I as well as others experienced this issue when testing queryWinner and delegateVoter scripts during Lesson 4 Weekend homework. 
 
